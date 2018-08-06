@@ -1,10 +1,11 @@
 # Getting-and-Cleaning-Data-Course-Project
 Coursera Data Science Project
 
-Repository Contains 3 following files:
+Repository Contains 4 following files:
 
 1. CodeBook.md - describes the variables, data, and transformations
 2. README.md - Explains the analysis files is clear and understandable
+3. TidyData.txt = Result
 
 3. run_analysis.R, does the following:
 
