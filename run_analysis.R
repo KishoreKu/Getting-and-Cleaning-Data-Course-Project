@@ -89,7 +89,3 @@ head(str(dataTable),6)
 #writing to output file
 
 write.table(dataTable, "TidyData.txt", row.name=FALSE)
-
-#install.packages("knitr")
-library(knitr)
-knit2html("codebook.Rmd");
